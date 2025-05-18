@@ -18,11 +18,7 @@ jobs:
         with:
           distribution: 'oracle'
           java-version: 17
+          cache: 'gradle'
 
       - name: Unit Tests
-        run: mvn -B test --file pom.xml
-
-      - name: Build the application
-        run: |
-          mvn clean
-          mvn -B package --file pom.xml
+        run: ./gradlew clean testDebug
