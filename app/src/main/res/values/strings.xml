@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">My City App</string>
+    <string name="restaurants">RESTAURANTS</string>
+    <string name="malls">MALLS</string>
+    <string name="temple">TEMPLE</string>
+    <string name="hotels">HOTELS</string>
+
+
+    <string name="location">LOCATION</string>"
+    <string name="about">ABOUT</string>"
+
+    <string name="category_screen">CATEGORY SCREEN</string>"
+    <string name="place_screen">PLACE SCREEN</string>"
+    <string name="detail_screen">DETAIL SCREEN</string>"
+
+
+
+    <string name="ras_le_langka">Le Langka</string>
+    <string name="detail_le_langka">This restaurant is known for its refined atmosphere and focus on quality ingredients.  They specialize in a fusion of Asian and French flavors. It is a great choice for a special occasion or a romantic dinner.  Reviews often praise the attentive service and the well executed dishes.  Keep in mind they are typically only open for dinner.</string>
+    <string name="local_le_langka">132 Z13 Rue Pasteur No. 51, Phnom Penh, Cambodia</string>
+    <string name="ras_phnom_penh_three_rivers">Phnom Penh Three Rivers Restaurant</string>
+    <string name="detail_phnom_penh_three_rivers">This family-run establishment offers a more casual dining experience. They are known for their friendly service and a menu that features both local Khmer dishes and some Western options. It is a good place to try traditional Cambodian food in a relaxed setting.  The owner is often present and happy to chat with diners.</string>
+    <string name="local_phnom_penh_three_rivers"> St13, #164, Phnom Penh, Cambodia</string>
+    <string name="ras_banteay_srey">Banteay Srey Restaurant</string>
+    <string name="detail_banteay_srey"> Banteay Srey focuses on authentic Khmer cuisine.  They are known for their flavorful dishes and reasonable prices.  It is a popular choice for those wanting to explore the local flavors.  They are located near the Royal Palace and National Museum, making it a convenient stop for tourists.</string>
+    <string name="local_banteay_srey">Preah Ang Eng St. (13), Phnom Penh, Cambodia</string>
+    <string name="ras_oskar_bistro_phnom_penh">Oskar Bistro Phnom Penh</string>
+    <string name="detail_oskar_bistro_phnom_penh">This bistro has a more modern and trendy vibe. They offer a mix of international dishes and drinks, making it a good option if you are looking for something different.  It is a popular spot for both locals and expats.</string>
+    <string name="local_oskar_bistro_phnom_penh">159 Preah Sisowath Quay, Phnom Penh, Cambodia</string>
+    <string name="ras_sombok_restaurant">Sombok Restaurant</string>
+    <string name="detail_sombok_restaurant">Sombok stands out because it is run entirely by women.  They offer a menu of Khmer dishes and are known for their commitment to using fresh, local ingredients.  It is a great place to support a local business and enjoy delicious food in a comfortable atmosphere.</string>
+    <string name="local_sombok_restaurant">No. 1, Street 154, Preah Sisowath Quay Phnom Penh, Phnom Penh 12200, Cambodia</string>
+
+    <string name="aeon_mall_phnom_penh">AEON Mall Phnom Penh</string>
+    <string name="detail_aeon_mall_phnom_penh">This is one of the largest malls in the city, offering a wide range of international and local brands, a supermarket, a food court, a cinema, and an entertainment zone with a bowling alley and arcade games. It is located on Samdech Sothearos Blvd and is open daily from 9 AM to 10 PM.</string>
+    <string name="local_aeon_mall_phnom_penh">132 Samdach Sothearos Blvd (3), Phnom Penh, Cambodia.</string>
+
+    <string name="aeon_mall_sen_sok_city">AEON Mall Sen Sok City</string>
+    <string name="detail_aeon_mall_sen_sok_city">This is another AEON mall in Phnom Penh, located in Sen Sok City. It is even larger than the first one and features a similar selection of shops, restaurants, and entertainment options. It also has a unique "forest theme" design with a solar-powered air-conditioning system. It is open daily from 9 AM to 10 PM.</string>
+    <string name="local_aeon_mall_sen_sok_city">St No. 1003, ភ្នំពេញ, Cambodia.</string>
+
+    <string name="chip_mong_mega_mall">Chip Mong 271 Mega Mall</string>
+    <string name="detail_chip_mong_mega_mall">This is a modern mall developed by the Chip Mong Group, a Cambodian conglomerate. It offers a mix of retail stores, a hypermarket, a food court, a cinema, and a playground. It is located on Street 271 and is open daily from 9 AM to 10 PM.</string>
+    <string name="local_chip_mong_mega_mall">Phnom Penh, Cambodia.</string>
+
+    <string name="chip_mong_noro_mall">Chip Mong Noro Mall</string>
+    <string name="detail_chip_mong_noro_mall">This is another Chip Mong mall in Phnom Penh, located in Boeung Keng Kang 1 district. It is a smaller mall compared to the others, but it still provides a convenient shopping experience with a supermarket, a food court, a cinema, and a selection of retail stores. It is open daily from 9 AM to 10 PM.</string>
+    <string name="local_chip_mong_noro_mall">199 Preah Norodom Blvd (41), Phnom Penh</string>
+
+    <string name="olympia_mall">Olympia Mall</string>
+    <string name="detail_olympia_mall">This is a mixed-use development that includes a shopping mall, residential buildings, and a hotel. The mall features a supermarket, a food court, a cinema, and a variety of retail stores selling fashion, electronics, and beauty products. It is located on Samdech Monireth Blvd and is open daily from 9 AM to 10 PM</string>
+    <string name="local_olympia_mall">Samdech Monireth Blvd, Phnom Penh, Cambodia.</string>
+
+
+
+</resources>
